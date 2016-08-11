@@ -8,11 +8,14 @@
 ![image-1](image-1.png)
 
 ## 课程列表
-* Lesson0 [本地仓库][1]
-* Lesson1 [远程仓库][2]
-* Lesson2 [分支的衍合-rebase][3]
-
+* [本地仓库][1]
+* [远程仓库][2]
+* [分支的衍合-rebase][3]
+* [Code Review][4]
+* [iOS发布流程和分支使用][5]
 
 [1]:	https://github.com/AlfredTheBest/git-handbook/tree/master/lesson0
 [2]:	https://github.com/AlfredTheBest/git-handbook/tree/master/lesson1
 [3]:	https://github.com/AlfredTheBest/git-handbook/tree/master/lesson2
+[4]:	https://github.com/AlfredTheBest/git-handbook/tree/master/lesson3
+[5]:	https://github.com/AlfredTheBest/git-handbook/tree/master/lesson4
